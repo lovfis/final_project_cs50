@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+psycopg2-binary = "*"
+Flask = "*"
+flask-sqlalchemy = "*"
+gunicorn = "*"
+python-dotenv = "*"
+matplotlib = "*"
+numpy = "*"
+mpld3 = "*"
+pandas = "*"
+matplotlib-inline = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

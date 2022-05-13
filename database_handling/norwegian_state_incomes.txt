@@ -1,0 +1,466 @@
+"main entry";"year";"Amount"
+"A. TOTAL REVENUE";"1991";322113
+"A. TOTAL REVENUE";"1992";321379
+"A. TOTAL REVENUE";"1993";329797
+"A. TOTAL REVENUE";"1994";353469
+"A. TOTAL REVENUE";"1995";382931
+"A. TOTAL REVENUE";"1996";432922
+"A. TOTAL REVENUE";"1997";478210
+"A. TOTAL REVENUE";"1998";471330
+"A. TOTAL REVENUE";"1999";499571
+"A. TOTAL REVENUE";"2000";643651
+"A. TOTAL REVENUE";"2001";758442
+"A. TOTAL REVENUE";"2002";691071
+"A. TOTAL REVENUE";"2003";700195
+"A. TOTAL REVENUE";"2004";746408
+"A. TOTAL REVENUE";"2005";860836
+"A. TOTAL REVENUE";"2006";994900
+"A. TOTAL REVENUE";"2007";1030124
+"A. TOTAL REVENUE";"2008";1182630
+"A. TOTAL REVENUE";"2009";1051890
+"A. TOTAL REVENUE";"2010";1064764
+"A. TOTAL REVENUE";"2011";1223524
+"A. TOTAL REVENUE";"2012";1290735
+"A. TOTAL REVENUE";"2013";1291819
+"A. TOTAL REVENUE";"2014";1278758
+"A. TOTAL REVENUE";"2015";1227412
+"A. TOTAL REVENUE";"2016";1162483
+"A. TOTAL REVENUE";"2017";1225888
+"A. TOTAL REVENUE";"2018";1350592
+"A. TOTAL REVENUE";"2019";1407407
+"A. TOTAL REVENUE";"2020";1288828
+"A. TOTAL REVENUE";"2021";1502720
+"Sales revenue";"1991";8482
+"Sales revenue";"1992";10014
+"Sales revenue";"1993";8618
+"Sales revenue";"1994";9789
+"Sales revenue";"1995";9224
+"Sales revenue";"1996";11436
+"Sales revenue";"1997";10856
+"Sales revenue";"1998";11910
+"Sales revenue";"1999";11756
+"Sales revenue";"2000";14368
+"Sales revenue";"2001";13971
+"Sales revenue";"2002";14245
+"Sales revenue";"2003";14933
+"Sales revenue";"2004";15009
+"Sales revenue";"2005";15298
+"Sales revenue";"2006";15214
+"Sales revenue";"2007";16237
+"Sales revenue";"2008";14974
+"Sales revenue";"2009";19821
+"Sales revenue";"2010";17816
+"Sales revenue";"2011";21513
+"Sales revenue";"2012";22481
+"Sales revenue";"2013";23663
+"Sales revenue";"2014";23652
+"Sales revenue";"2015";22916
+"Sales revenue";"2016";25286
+"Sales revenue";"2017";19278
+"Sales revenue";"2018";23714
+"Sales revenue";"2019";25603
+"Sales revenue";"2020";34390
+"Sales revenue";"2021";22066
+"Operating surplus extraction of petroleum";"1991";5625
+"Operating surplus extraction of petroleum";"1992";3933
+"Operating surplus extraction of petroleum";"1993";8071
+"Operating surplus extraction of petroleum";"1994";8948
+"Operating surplus extraction of petroleum";"1995";10576
+"Operating surplus extraction of petroleum";"1996";26775
+"Operating surplus extraction of petroleum";"1997";38019
+"Operating surplus extraction of petroleum";"1998";18995
+"Operating surplus extraction of petroleum";"1999";32453
+"Operating surplus extraction of petroleum";"2000";95396
+"Operating surplus extraction of petroleum";"2001";84906
+"Operating surplus extraction of petroleum";"2002";60224
+"Operating surplus extraction of petroleum";"2003";62697
+"Operating surplus extraction of petroleum";"2004";76804
+"Operating surplus extraction of petroleum";"2005";99329
+"Operating surplus extraction of petroleum";"2006";124861
+"Operating surplus extraction of petroleum";"2007";108817
+"Operating surplus extraction of petroleum";"2008";152576
+"Operating surplus extraction of petroleum";"2009";98285
+"Operating surplus extraction of petroleum";"2010";100257
+"Operating surplus extraction of petroleum";"2011";125820
+"Operating surplus extraction of petroleum";"2012";148446
+"Operating surplus extraction of petroleum";"2013";131604
+"Operating surplus extraction of petroleum";"2014";121447
+"Operating surplus extraction of petroleum";"2015";93855
+"Operating surplus extraction of petroleum";"2016";67188
+"Operating surplus extraction of petroleum";"2017";86620
+"Operating surplus extraction of petroleum";"2018";114510
+"Operating surplus extraction of petroleum";"2019";97376
+"Operating surplus extraction of petroleum";"2020";59075
+"Operating surplus extraction of petroleum";"2021";181937
+"Depreciation etc. extraction of petroleum";"1991";5739
+"Depreciation etc. extraction of petroleum";"1992";7035
+"Depreciation etc. extraction of petroleum";"1993";7907
+"Depreciation etc. extraction of petroleum";"1994";8560
+"Depreciation etc. extraction of petroleum";"1995";11039
+"Depreciation etc. extraction of petroleum";"1996";16247
+"Depreciation etc. extraction of petroleum";"1997";14093
+"Depreciation etc. extraction of petroleum";"1998";14443
+"Depreciation etc. extraction of petroleum";"1999";15344
+"Depreciation etc. extraction of petroleum";"2000";17006
+"Depreciation etc. extraction of petroleum";"2001";56872
+"Depreciation etc. extraction of petroleum";"2002";23093
+"Depreciation etc. extraction of petroleum";"2003";14092
+"Depreciation etc. extraction of petroleum";"2004";14609
+"Depreciation etc. extraction of petroleum";"2005";12914
+"Depreciation etc. extraction of petroleum";"2006";14538
+"Depreciation etc. extraction of petroleum";"2007";15404
+"Depreciation etc. extraction of petroleum";"2008";15740
+"Depreciation etc. extraction of petroleum";"2009";15268
+"Depreciation etc. extraction of petroleum";"2010";15719
+"Depreciation etc. extraction of petroleum";"2011";16862
+"Depreciation etc. extraction of petroleum";"2012";19502
+"Depreciation etc. extraction of petroleum";"2013";20261
+"Depreciation etc. extraction of petroleum";"2014";21838
+"Depreciation etc. extraction of petroleum";"2015";23727
+"Depreciation etc. extraction of petroleum";"2016";23277
+"Depreciation etc. extraction of petroleum";"2017";24648
+"Depreciation etc. extraction of petroleum";"2018";23636
+"Depreciation etc. extraction of petroleum";"2019";22674
+"Depreciation etc. extraction of petroleum";"2020";22439
+"Depreciation etc. extraction of petroleum";"2021";25634
+"Depreciation etc. other central government enterprises";"1991";8547
+"Depreciation etc. other central government enterprises";"1992";8013
+"Depreciation etc. other central government enterprises";"1993";8757
+"Depreciation etc. other central government enterprises";"1994";9840
+"Depreciation etc. other central government enterprises";"1995";2866
+"Depreciation etc. other central government enterprises";"1996";3094
+"Depreciation etc. other central government enterprises";"1997";2464
+"Depreciation etc. other central government enterprises";"1998";2597
+"Depreciation etc. other central government enterprises";"1999";4407
+"Depreciation etc. other central government enterprises";"2000";2004
+"Depreciation etc. other central government enterprises";"2001";1686
+"Depreciation etc. other central government enterprises";"2002";1811
+"Depreciation etc. other central government enterprises";"2003";1179
+"Depreciation etc. other central government enterprises";"2004";1287
+"Depreciation etc. other central government enterprises";"2005";1227
+"Depreciation etc. other central government enterprises";"2006";1474
+"Depreciation etc. other central government enterprises";"2007";1538
+"Depreciation etc. other central government enterprises";"2008";1399
+"Depreciation etc. other central government enterprises";"2009";1598
+"Depreciation etc. other central government enterprises";"2010";1922
+"Depreciation etc. other central government enterprises";"2011";2222
+"Depreciation etc. other central government enterprises";"2012";1992
+"Depreciation etc. other central government enterprises";"2013";1943
+"Depreciation etc. other central government enterprises";"2014";2311
+"Depreciation etc. other central government enterprises";"2015";2649
+"Depreciation etc. other central government enterprises";"2016";2511
+"Depreciation etc. other central government enterprises";"2017";2820
+"Depreciation etc. other central government enterprises";"2018";2970
+"Depreciation etc. other central government enterprises";"2019";3097
+"Depreciation etc. other central government enterprises";"2020";3129
+"Depreciation etc. other central government enterprises";"2021";1837
+"Other revenue from fixed capital formation";"1991";1054
+"Other revenue from fixed capital formation";"1992";447
+"Other revenue from fixed capital formation";"1993";601
+"Other revenue from fixed capital formation";"1994";517
+"Other revenue from fixed capital formation";"1995";977
+"Other revenue from fixed capital formation";"1996";774
+"Other revenue from fixed capital formation";"1997";1034
+"Other revenue from fixed capital formation";"1998";1188
+"Other revenue from fixed capital formation";"1999";918
+"Other revenue from fixed capital formation";"2000";360
+"Other revenue from fixed capital formation";"2001";1414
+"Other revenue from fixed capital formation";"2002";640
+"Other revenue from fixed capital formation";"2003";489
+"Other revenue from fixed capital formation";"2004";1022
+"Other revenue from fixed capital formation";"2005";910
+"Other revenue from fixed capital formation";"2006";671
+"Other revenue from fixed capital formation";"2007";794
+"Other revenue from fixed capital formation";"2008";648
+"Other revenue from fixed capital formation";"2009";527
+"Other revenue from fixed capital formation";"2010";567
+"Other revenue from fixed capital formation";"2011";374
+"Other revenue from fixed capital formation";"2012";524
+"Other revenue from fixed capital formation";"2013";582
+"Other revenue from fixed capital formation";"2014";537
+"Other revenue from fixed capital formation";"2015";523
+"Other revenue from fixed capital formation";"2016";632
+"Other revenue from fixed capital formation";"2017";928
+"Other revenue from fixed capital formation";"2018";1063
+"Other revenue from fixed capital formation";"2019";600
+"Other revenue from fixed capital formation";"2020";513
+"Other revenue from fixed capital formation";"2021";1837
+"Total transfers";"1991";292666
+"Total transfers";"1992";291937
+"Total transfers";"1993";295843
+"Total transfers";"1994";315815
+"Total transfers";"1995";348249
+"Total transfers";"1996";374596
+"Total transfers";"1997";411744
+"Total transfers";"1998";422197
+"Total transfers";"1999";434693
+"Total transfers";"2000";514517
+"Total transfers";"2001";599593
+"Total transfers";"2002";591058
+"Total transfers";"2003";606805
+"Total transfers";"2004";637677
+"Total transfers";"2005";731158
+"Total transfers";"2006";838142
+"Total transfers";"2007";887334
+"Total transfers";"2008";997293
+"Total transfers";"2009";916391
+"Total transfers";"2010";928483
+"Total transfers";"2011";1056733
+"Total transfers";"2012";1097790
+"Total transfers";"2013";1113766
+"Total transfers";"2014";1108973
+"Total transfers";"2015";1083742
+"Total transfers";"2016";1043589
+"Total transfers";"2017";1091594
+"Total transfers";"2018";1184699
+"Total transfers";"2019";1258057
+"Total transfers";"2020";1169282
+"Total transfers";"2021";1269409
+"  Tax revenue";"1991";151530
+"  Tax revenue";"1992";148121
+"  Tax revenue";"1993";149583
+"  Tax revenue";"1994";160485
+"  Tax revenue";"1995";177110
+"  Tax revenue";"1996";193364
+"  Tax revenue";"1997";271692
+"  Tax revenue";"1998";277709
+"  Tax revenue";"1999";282843
+"  Tax revenue";"2000";346114
+"  Tax revenue";"2001";413296
+"  Tax revenue";"2002";412404
+"  Tax revenue";"2003";418631
+"  Tax revenue";"2004";448307
+"  Tax revenue";"2005";529147
+"  Tax revenue";"2006";608053
+"  Tax revenue";"2007";638712
+"  Tax revenue";"2008";719640
+"  Tax revenue";"2009";634827
+"  Tax revenue";"2010";650341
+"  Tax revenue";"2011";746249
+"  Tax revenue";"2012";788307
+"  Tax revenue";"2013";786053
+"  Tax revenue";"2014";760369
+"  Tax revenue";"2015";703299
+"  Tax revenue";"2016";659444
+"  Tax revenue";"2017";701234
+"  Tax revenue";"2018";776326
+"  Tax revenue";"2019";828508
+"  Tax revenue";"2020";748217
+"  Tax revenue";"2021";821094
+"  Members' contributions National Insurance Scheme";"1991";31183
+"  Members' contributions National Insurance Scheme";"1992";32336
+"  Members' contributions National Insurance Scheme";"1993";32728
+"  Members' contributions National Insurance Scheme";"1994";35099
+"  Members' contributions National Insurance Scheme";"1995";36923
+"  Members' contributions National Insurance Scheme";"1996";39579
+"  Members' contributions National Insurance Scheme";"1997";42005
+"  Members' contributions National Insurance Scheme";"1998";45601
+"  Members' contributions National Insurance Scheme";"1999";48585
+"  Members' contributions National Insurance Scheme";"2000";51891
+"  Members' contributions National Insurance Scheme";"2001";53300
+"  Members' contributions National Insurance Scheme";"2002";57674
+"  Members' contributions National Insurance Scheme";"2003";61693
+"  Members' contributions National Insurance Scheme";"2004";62982
+"  Members' contributions National Insurance Scheme";"2005";65505
+"  Members' contributions National Insurance Scheme";"2006";70081
+"  Members' contributions National Insurance Scheme";"2007";75307
+"  Members' contributions National Insurance Scheme";"2008";84228
+"  Members' contributions National Insurance Scheme";"2009";90800
+"  Members' contributions National Insurance Scheme";"2010";91936
+"  Members' contributions National Insurance Scheme";"2011";102436
+"  Members' contributions National Insurance Scheme";"2012";104279
+"  Members' contributions National Insurance Scheme";"2013";111686
+"  Members' contributions National Insurance Scheme";"2014";119936
+"  Members' contributions National Insurance Scheme";"2015";129807
+"  Members' contributions National Insurance Scheme";"2016";133599
+"  Members' contributions National Insurance Scheme";"2017";137747
+"  Members' contributions National Insurance Scheme";"2018";144130
+"  Members' contributions National Insurance Scheme";"2019";148508
+"  Members' contributions National Insurance Scheme";"2020";154541
+"  Members' contributions National Insurance Scheme";"2021";163801
+"  Employers' contributions National Insurance Scheme";"1991";47877
+"  Employers' contributions National Insurance Scheme";"1992";49594
+"  Employers' contributions National Insurance Scheme";"1993";45448
+"  Employers' contributions National Insurance Scheme";"1994";46321
+"  Employers' contributions National Insurance Scheme";"1995";48545
+"  Employers' contributions National Insurance Scheme";"1996";51952
+"  Employers' contributions National Insurance Scheme";"1997";56186
+"  Employers' contributions National Insurance Scheme";"1998";61697
+"  Employers' contributions National Insurance Scheme";"1999";67019
+"  Employers' contributions National Insurance Scheme";"2000";70117
+"  Employers' contributions National Insurance Scheme";"2001";75075
+"  Employers' contributions National Insurance Scheme";"2002";79411
+"  Employers' contributions National Insurance Scheme";"2003";82325
+"  Employers' contributions National Insurance Scheme";"2004";86885
+"  Employers' contributions National Insurance Scheme";"2005";92106
+"  Employers' contributions National Insurance Scheme";"2006";101584
+"  Employers' contributions National Insurance Scheme";"2007";109990
+"  Employers' contributions National Insurance Scheme";"2008";121721
+"  Employers' contributions National Insurance Scheme";"2009";128089
+"  Employers' contributions National Insurance Scheme";"2010";130416
+"  Employers' contributions National Insurance Scheme";"2011";138542
+"  Employers' contributions National Insurance Scheme";"2012";147538
+"  Employers' contributions National Insurance Scheme";"2013";157744
+"  Employers' contributions National Insurance Scheme";"2014";164015
+"  Employers' contributions National Insurance Scheme";"2015";169629
+"  Employers' contributions National Insurance Scheme";"2016";171325
+"  Employers' contributions National Insurance Scheme";"2017";175773
+"  Employers' contributions National Insurance Scheme";"2018";183272
+"  Employers' contributions National Insurance Scheme";"2019";194253
+"  Employers' contributions National Insurance Scheme";"2020";186804
+"  Employers' contributions National Insurance Scheme";"2021";206434
+"  Interest and dividends";"1991";42141
+"  Interest and dividends";"1992";39346
+"  Interest and dividends";"1993";38483
+"  Interest and dividends";"1994";35445
+"  Interest and dividends";"1995";35442
+"  Interest and dividends";"1996";35106
+"  Interest and dividends";"1997";30053
+"  Interest and dividends";"1998";27014
+"  Interest and dividends";"1999";26552
+"  Interest and dividends";"2000";28421
+"  Interest and dividends";"2001";37150
+"  Interest and dividends";"2002";35477
+"  Interest and dividends";"2003";33529
+"  Interest and dividends";"2004";31540
+"  Interest and dividends";"2005";36233
+"  Interest and dividends";"2006";45055
+"  Interest and dividends";"2007";53582
+"  Interest and dividends";"2008";61627
+"  Interest and dividends";"2009";52495
+"  Interest and dividends";"2010";42659
+"  Interest and dividends";"2011";56436
+"  Interest and dividends";"2012";49944
+"  Interest and dividends";"2013";49487
+"  Interest and dividends";"2014";55915
+"  Interest and dividends";"2015";52988
+"  Interest and dividends";"2016";41233
+"  Interest and dividends";"2017";41375
+"  Interest and dividends";"2018";57496
+"  Interest and dividends";"2019";62298
+"  Interest and dividends";"2020";50098
+"  Interest and dividends";"2021";49552
+"  Transfers from other state accounts";"1991";8174
+"  Transfers from other state accounts";"1992";12854
+"  Transfers from other state accounts";"1993";17375
+"  Transfers from other state accounts";"1994";23132
+"  Transfers from other state accounts";"1995";37218
+"  Transfers from other state accounts";"1996";42127
+"  Transfers from other state accounts";"1997";2300
+"  Transfers from other state accounts";"1998";2135
+"  Transfers from other state accounts";"1999";1956
+"  Transfers from other state accounts";"2000";1624
+"  Transfers from other state accounts";"2001";5470
+"  Transfers from other state accounts";"2002";772
+"  Transfers from other state accounts";"2003";3828
+"  Transfers from other state accounts";"2004";1519
+"  Transfers from other state accounts";"2005";1419
+"  Transfers from other state accounts";"2006";6091
+"  Transfers from other state accounts";"2007";1390
+"  Transfers from other state accounts";"2008";982
+"  Transfers from other state accounts";"2009";301
+"  Transfers from other state accounts";"2010";906
+"  Transfers from other state accounts";"2011";353
+"  Transfers from other state accounts";"2012";327
+"  Transfers from other state accounts";"2013";200
+"  Transfers from other state accounts";"2014";245
+"  Transfers from other state accounts";"2015";185
+"  Transfers from other state accounts";"2016";94
+"  Transfers from other state accounts";"2017";190
+"  Transfers from other state accounts";"2018";71
+"  Transfers from other state accounts";"2019";65
+"  Transfers from other state accounts";"2020";156
+"  Transfers from other state accounts";"2021";1309
+"  Transfers from municipalities and county authorities";"1991";3316
+"  Transfers from municipalities and county authorities";"1992";1487
+"  Transfers from municipalities and county authorities";"1993";1076
+"  Transfers from municipalities and county authorities";"1994";1099
+"  Transfers from municipalities and county authorities";"1995";1156
+"  Transfers from municipalities and county authorities";"1996";1156
+"  Transfers from municipalities and county authorities";"1997";1083
+"  Transfers from municipalities and county authorities";"1998";741
+"  Transfers from municipalities and county authorities";"1999";98
+"  Transfers from municipalities and county authorities";"2000";93
+"  Transfers from municipalities and county authorities";"2001";92
+"  Transfers from municipalities and county authorities";"2002";0
+"  Transfers from municipalities and county authorities";"2003";1
+"  Transfers from municipalities and county authorities";"2004";354
+"  Transfers from municipalities and county authorities";"2005";608
+"  Transfers from municipalities and county authorities";"2006";657
+"  Transfers from municipalities and county authorities";"2007";709
+"  Transfers from municipalities and county authorities";"2008";764
+"  Transfers from municipalities and county authorities";"2009";867
+"  Transfers from municipalities and county authorities";"2010";846
+"  Transfers from municipalities and county authorities";"2011";855
+"  Transfers from municipalities and county authorities";"2012";877
+"  Transfers from municipalities and county authorities";"2013";925
+"  Transfers from municipalities and county authorities";"2014";1065
+"  Transfers from municipalities and county authorities";"2015";1263
+"  Transfers from municipalities and county authorities";"2016";1343
+"  Transfers from municipalities and county authorities";"2017";1373
+"  Transfers from municipalities and county authorities";"2018";1452
+"  Transfers from municipalities and county authorities";"2019";1470
+"  Transfers from municipalities and county authorities";"2020";1441
+"  Transfers from municipalities and county authorities";"2021";1418
+"  Transfers from the central bank";"1991";5691
+"  Transfers from the central bank";"1992";4525
+"  Transfers from the central bank";"1993";5080
+"  Transfers from the central bank";"1994";9545
+"  Transfers from the central bank";"1995";8244
+"  Transfers from the central bank";"1996";7239
+"  Transfers from the central bank";"1997";4236
+"  Transfers from the central bank";"1998";3811
+"  Transfers from the central bank";"1999";3401
+"  Transfers from the central bank";"2000";10685
+"  Transfers from the central bank";"2001";10685
+"  Transfers from the central bank";"2002";0
+"  Transfers from the central bank";"2003";0
+"  Transfers from the central bank";"2004";0
+"  Transfers from the central bank";"2005";0
+"  Transfers from the central bank";"2006";0
+"  Transfers from the central bank";"2007";0
+"  Transfers from the central bank";"2008";0
+"  Transfers from the central bank";"2009";0
+"  Transfers from the central bank";"2010";0
+"  Transfers from the central bank";"2011";0
+"  Transfers from the central bank";"2012";0
+"  Transfers from the central bank";"2013";0
+"  Transfers from the central bank";"2014";0
+"  Transfers from the central bank";"2015";10419
+"  Transfers from the central bank";"2016";26589
+"  Transfers from the central bank";"2017";17726
+"  Transfers from the central bank";"2018";14333
+"  Transfers from the central bank";"2019";14798
+"  Transfers from the central bank";"2020";19706
+"  Transfers from the central bank";"2021";15169
+"  Other transfers";"1991";2754
+"  Other transfers";"1992";3674
+"  Other transfers";"1993";6070
+"  Other transfers";"1994";4689
+"  Other transfers";"1995";3611
+"  Other transfers";"1996";4073
+"  Other transfers";"1997";4189
+"  Other transfers";"1998";3489
+"  Other transfers";"1999";4239
+"  Other transfers";"2000";5572
+"  Other transfers";"2001";4525
+"  Other transfers";"2002";5320
+"  Other transfers";"2003";6798
+"  Other transfers";"2004";6090
+"  Other transfers";"2005";6140
+"  Other transfers";"2006";6621
+"  Other transfers";"2007";7644
+"  Other transfers";"2008";8331
+"  Other transfers";"2009";9012
+"  Other transfers";"2010";11379
+"  Other transfers";"2011";11862
+"  Other transfers";"2012";6518
+"  Other transfers";"2013";7671
+"  Other transfers";"2014";7428
+"  Other transfers";"2015";16152
+"  Other transfers";"2016";9962
+"  Other transfers";"2017";16176
+"  Other transfers";"2018";7619
+"  Other transfers";"2019";8157
+"  Other transfers";"2020";8319
+"  Other transfers";"2021";10632

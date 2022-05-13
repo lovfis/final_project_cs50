@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Norwegian government revenue history
+{% endblock %}
+
+{% block main %}
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 text-end">
+                <label class="mr-sm-2" for="inlineFormCustomSelect">Display table with respect to year or main entry</label>
+            </div>
+            <div class="col-sm">
+                <form action="/table" method="post" class="form-inline">
+                    <div class="form-row align-items-center">
+                        <div class="col-auto btn-group">
+                            <!--Dropdown for choosing value year-->
+                            <select class="form-select mx-auto w-auto" name="year" type="number">
+                                <option value="year">Choose year</option>
+                                    {% for year in years %}
+                                        <option>{{ year }}</option>
+                                    {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-light">Submit year</button>
+                        </div>
+                    </div>
+                </form>
+            </div>            
+
+            <div class="col-sm">
+                <form action="/table" method="post" class="form-inline">
+                    <div class="form-row align-items-center">
+                        <!--Dropdown for choosing value main entry, sorted by year-->
+                        <div class="col-auto">
+                            <select class="form-select mx-auto w-auto" name="main_entry">
+                                <option value="main_entry">Choose main entry</option>>
+                                    {% for entry in entries %}
+                                        <option>{{ entry }}</option>
+                                    {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-light">Submit main entry</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <table class="table table-striped center" style="width:93%">
+        <thead>
+            <tr>
+                <th class="text-start">Main entry</th>
+                <th class="text-start">Year</th>
+                <th class="text-end">Amount (in mill nok)</th>
+            </tr>
+        </thead>
+        <tbody>
+                {% for income in incomes %}
+                <tr>
+                    <td class="text-start"> {{ income[1] }} </td>
+                    <td class="text-start"> {{ income[2] }} </td>
+                    <td class="text-end"> {{ income[3] }} </td>
+                </tr>
+                {% endfor %}
+        </tbody>
+        <tfoot>
+            <tr>   
+                {% if show_total %}             
+                <td class="border-0 fw-bold text-start" colspan="2">TOTAL (nok)</td>
+                <td class="border-0 w-bold text-end">{{ total }}</td>
+                {% endif %}
+            </tr>
+        </tfoot>
+    </table>
+{% endblock %}
