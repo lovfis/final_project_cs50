@@ -89,7 +89,7 @@ def index():
 
     axes = [ax1, ax2, ax3]
 
-    # Loop over all the axes and set ____ that will be __felles___ for all of them
+    # Loop over all the axes and make settings for all of them
     for ax in axes:
         # Remove the plot frame lines. They are unnecessary here.
         ax.spines['top'].set_visible(False)

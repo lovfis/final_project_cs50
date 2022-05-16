@@ -1,5 +1,4 @@
 .env
 __pycache__
  *.pyc
- stored_charts
  README.md
