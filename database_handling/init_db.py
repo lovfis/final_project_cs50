@@ -1,6 +1,3 @@
-# Trenger jeg denne linja?
-#!/usr/bin/env python
-
 import os
 import psycopg2
 
