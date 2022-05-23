@@ -5,7 +5,9 @@ from flask import Flask, render_template, request
 from matplotlib import pyplot as plt
 # a tool to turn static matplotlib charts to interactive html data
 import mpld3
-#from mpld3 import plugins
+
+# Import functions from functions
+from functions import axes_settings
 
 app = Flask(__name__)
 
@@ -89,32 +91,8 @@ def index():
 
     axes = [ax1, ax2, ax3]
 
-    # Loop over all the axes and make settings for all of them
-    for ax in axes:
-        # Remove the plot frame lines. They are unnecessary here.
-        ax.spines['top'].set_visible(False)
-        ax.spines['bottom'].set_visible(False)
-        ax.spines['right'].set_visible(False)
-        ax.spines['left'].set_visible(False)
-
-        # Ensure that the axis ticks only show up on the bottom and left of the plot.
-        # Ticks on the right and top of the plot are generally unnecessary.
-        ax.get_xaxis().tick_bottom()
-        ax.get_yaxis().tick_left()
-
-        # Provide tick lines across the plot to help your viewers trace along
-        # the axis ticks. Make sure that the lines are light and small so they
-        # don't obscure the primary data lines.
-        ax.grid(True, 'major', 'y', ls='--', lw=.5, c='k', alpha=.3)
-
-        # Remove the tick marks; they are unnecessary with the tick lines we just
-        # plotted.
-        ax.tick_params(axis='both', which='both', bottom='off', top='off',
-                        labelbottom='on', left='off', right='off', labelleft='on')
-
-        # Label x- and y-axes
-        ax.set_xlabel("Years", fontsize=16)
-        ax.set_ylabel("Amount in millon NOK", fontsize=16)
+    # Make settings for all of the axes using function from functions.py
+    axes = axes_settings(axes)
 
     # Limit the range of the plot to only where the data is.
     # Avoid unnecessary whitespace.

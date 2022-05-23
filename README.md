@@ -1,4 +1,4 @@
-# My project: Norwegian government revenue history
+# Norwegian government revenue history
 
 ### Video demo: https://youtu.be/3Jo2HfKUZnI 
 
