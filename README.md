@@ -31,7 +31,7 @@ This is my central configuration object for the entire app. Here I import what I
 The Python code and also some Javascript generated from an mpld3 package I use pass on informaton to the html-files about what to render.
 
 #### functions.py
-As of now this file contains one file that is used to make settings sommon for all the axes. I made this to make my app.py code a bit shorter.
+As of now this file contains one function that is used to make settings common for all the axes. I made this to make my app.py code a bit shorter.
 
 #### .gitignore
 Telling git which files ato ignore.
