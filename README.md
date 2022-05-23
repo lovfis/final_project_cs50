@@ -23,12 +23,15 @@ I made my web app in a virtual environment using pipenv, on my computer. I have 
 
 ### Files in the main folder final_project_cs50
 #### .env
-.env is a file containg key value pairs of the environment variables I'm using in my application. I stored the username and password for my postgres database there. Os.environ and psycopg2 enables accessing the values of the variables. .env is included with the project locally, but not saved to source control, so that the information I want to keep protected, is not accesible to anyone.
+.env is a file containg key value pairs of the environment variables I'm using in my application. I stored the username and password for my postgres database there. Os.environ and psycopg2 enables accessing the values of the variables. .env is included with the project locally, but not saved to source control, so that the information I want to keep protected, is not accesible to anyone uninvited.
 
 #### app.py
 This is my central configuration object for the entire app. Here I import what I need from my installed packages, connect to the database, and use Python code to select the data I need and generate different visual appearances of them. The web app consists of two pages: main page  with charts and a page for table view of the data.
 
 The Python code and also some Javascript generated from an mpld3 package I use pass on informaton to the html-files about what to render.
+
+#### functions.py
+As of now this file contains one file that is used to make settings sommon for all the axes. I made this to make my app.py code a bit shorter.
 
 #### .gitignore
 Telling git which files ato ignore.
