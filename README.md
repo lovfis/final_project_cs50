@@ -1,7 +1,5 @@
 # Norwegian government revenue history
 
-### Video demo: https://youtu.be/3Jo2HfKUZnI 
-
 ### Introduction
 
 I started this project with a desire to learn more about where the state of Norway get it's revenue from and if there are certain developments over the years that are interesting and deserves a closer look. F.ex. did the tax revenues quadruple (300% increase) in 30 years, while the average salary increased with 200% and the CPI (Consumer price index) increased with 87%. It would be interesting to look into why the tax revenues increased that much. My guess is that the work force in procentage is bigger now than then (more women are working), and that the government is earning more on taxes because of increase in production of oil and gas. But there must be more to it than that. I was optimistic about what I was going to achieve on the analytical side of this project, but the technical bits took up so much of my time, that I have had to settle with what I have achieved so far.
